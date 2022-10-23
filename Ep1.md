@@ -18,7 +18,7 @@ How To Create Github Account (Github Account Creation)?
 ### ANSWER:
 Github account is free and you can easily open a Github account just by going to <a href="https://github.com">GitHub.com</a>.
 
-Then click SIGN UP button. Follow the instructions steby by step to register an account free on Github.
+Then click `SIGN UP` button. Follow the instructions steby by step to register an account free on Github.
 <br/>
 <hr>
 <br/>
