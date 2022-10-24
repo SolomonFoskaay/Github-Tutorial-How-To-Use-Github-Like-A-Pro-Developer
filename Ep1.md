@@ -289,7 +289,7 @@ github profile link
 And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
 
 ### Want Your questions to be added or need support?
-#### Kindly reach me on [Discord Here](https://dprogramminguniversity.com/discord) & Follow me on [Twitter Here](https://dprogramminguniversity.com/twitter)
+#### Kindly reach me on [Discord Here](https://dprogramminguniversity.com/discord) & Follow me on [Twitter Here](https://twitter.com/SolomonFoskaay)
 
 <br/>
 <hr>
