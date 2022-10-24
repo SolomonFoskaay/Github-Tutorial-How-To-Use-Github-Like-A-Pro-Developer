@@ -342,7 +342,7 @@ And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
 ## SECTION D: CREDIT:
 [Presearch](https://dprogramminguniversity.com/community/general/how-to-earn-presearch-pre-token/) - Decentralize search + earn while searching as devs
 
-[Emerald DAO](https://www.ecdao.org/) - Join Free Cadence Bootcamp & Learn To Build dApps on Fow Blockchain
+[Emerald DAO](https://www.ecdao.org/) - Join Free Cadence Bootcamp & Learn To Build dApps on Flow Blockchain
 
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
