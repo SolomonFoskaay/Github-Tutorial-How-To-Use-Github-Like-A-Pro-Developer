@@ -1,5 +1,7 @@
 # Github Tutorial Episode 1: How To Use Github Like Pro Developers
 
+This was inspired by my friends at Emerald DAo to help beginners submit their Bootcamp quests easily using Github. yet it packed with Github
+
 
 ## SECTION A: Intro To Github For Beginners
 
