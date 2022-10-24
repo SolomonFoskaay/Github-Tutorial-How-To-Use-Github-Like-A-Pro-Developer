@@ -124,18 +124,18 @@ Examples:
     HTML: 
 
 ```
-<a href="https://github.com">GitHub.com</a>
+<a href="https://dProgrammingUniversity.com">dProgramming University</a>
 ```
  
    Markdown: 
 
 ```
-[dProgramming University](https://dProgrammingUniversity.com/)
+[dProgramming University](https://dProgrammingUniversity.com)
 ```
 
 Example: Both HTML and Markdown above will render as
 
-[dProgramming University](https://dProgrammingUniversity.com/)
+[dProgramming University](https://dProgrammingUniversity.com)
 
 
 
@@ -146,68 +146,75 @@ Example: Both HTML and Markdown above will render as
     HTML: 
 
 ```
-<a href="/ep2.md">Episode 2</a>
+<a href="../Ep2.md">Episode 2</a>
 ```
 
    Markdown: 
 
 ```
-[Episode 2](/ep2.md)
+[Episode 2](/Ep2.md)
 ```
 
-Example: Both HTML and Markdown above will render as
+Example: Both HTML and Markdown above will render as:
 
-<a href="/ep2.md">Episode 2</a>
+NOTE: When using relative path, be aware that the url is case sensitive. If the actual url of the page you are trying to link to is for example `Ep2.md` (upercase `E`) and you reference it as `ep2.md`(lowercase `e`). It will lead to 404 eror page as seen below.
+
+<a href="/Ep2.md">Episode 2</a> (page hyperlinked to correct file with Ep2.md)
+
+[Episode 2](/ep2.md) (hyperlink lead to 404 error page with ep2.md)
+
+
 
 
 <hr>
 
-### QUESTION 7:
-
+### QUESTION 7: How To Add Ordered List To Github?
 ### ANSWER:
+Markdown: 1. and so on
 
 <hr>
 
-### QUESTION 8:
-
+### QUESTION 8: How To Add Unordered List To Github?
 ### ANSWER:
+Markdown: - item a
+- item b
+
 
 <hr>
 
-### QUESTION 9:
+### QUESTION 9: How To Add Images To Github?
 
 ### ANSWER:
+Markdown: ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 <hr>
 
-### QUESTION 10:
+### QUESTION 10: How To Add Videos To Github?
+### ANSWER:
+Simply drag and drop where its needed to upload video directly to github
+
+<hr>
+
+### QUESTION 11: How To Add Code Blocks/Boxes To Github?
+### ANSWER:
+Markdown: 
+```Javascript
+YOUR JAVASCRIPT OR RELATED CODES (LIKE CADENCE, SOLIDITY) HERE
+```
+
+<hr>
+
+### QUESTION 12:
 
 ### ANSWER:
 
 
+<br/>
+<hr>
+<br/>
 
-
-SECTION C: 
-
-
-
-How To Add Ordered List To Github?
-	Markdown: 1. and so on
-How To Add Unordered List To Github?
-	Markdown: - item a
-		- item b
-How To Add Images To Github?
-	Markdown: ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-How To Add Videos To Github?
-	Simply drag and drop where its needed to upload video directly to github
-How To Add Code Blocks/Boxes To Github?
-	Markdown: 
-			```Javascript
-			YOUR JAVASCRIPT OR RELATED CODES (LIKE CADENCE, SOLIDITY) HERE
-			```
-
-CREDIT SECTION:
-Presearch (affiliate link)
+## SECTION D: CREDIT SECTION:
+Presearch - Decentralize search + earn while searching (affiliate link)
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings
