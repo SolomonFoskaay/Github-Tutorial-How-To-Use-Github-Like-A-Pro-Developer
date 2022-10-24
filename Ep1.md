@@ -340,7 +340,10 @@ And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
 <br/>
 
 ## SECTION D: CREDIT:
-[Presearch](https://dprogramminguniversity.com/community/general/how-to-earn-presearch-pre-token/) - Decentralize search + earn while searching
+[Presearch](https://dprogramminguniversity.com/community/general/how-to-earn-presearch-pre-token/) - Decentralize search + earn while searching as devs
+
+[Emerald DAO](https://www.ecdao.org/)
+
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
