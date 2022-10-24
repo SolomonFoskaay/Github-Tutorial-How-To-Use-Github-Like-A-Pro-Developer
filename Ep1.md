@@ -262,6 +262,47 @@ Note: The above code is in Blue because we specify it as `Javascript` code. Try 
 ```CSS
 YOUR CSS OR RELATED CODES HERE
 ```
+Sample Cadence code:
+```Cadence
+pub contract PetCenter {
+
+    //SolomonFoskaayQuestsSubmission
+
+    //create event
+    pub event NewPetAdded (petType: String, petName: String)
+
+    //resource interface
+    pub resource interface IPet {
+        pub var petType: String
+    }
+
+    //resource type @Pet
+    pub resource Pet: IPet {
+        pub var petType: String
+        pub var petName: String
+
+        init() {
+            self.petType = "Dog"
+            self.petName = "Puppy" 
+        }
+    }
+
+    //create & return @Pet resource
+    pub fun createPet(newPetType: String, newPetName: String): @Pet {
+        let petAdded <- create Pet()
+
+        //emit event details of newsly created pet to users
+        emit NewPetAdded (petType: newPetType, petName: newPetName)
+        
+        return <- petAdded   
+    }
+
+    //initialize variables
+    init() {
+    }
+
+}    
+```
 
 <hr>
 
