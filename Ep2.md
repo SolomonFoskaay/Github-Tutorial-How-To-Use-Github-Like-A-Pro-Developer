@@ -31,3 +31,6 @@ And a lot more
 #### Kindly reach me on [Discord Here](https://dprogramminguniversity.com/discord) & Follow me on [Twitter Here](https://twitter.com/SolomonFoskaay)
 #### PLEASE REMEBER TO STAR THIS REPO IF YOU FIND IT HELP FOR ME TO DO MORE - THANK YOU!
 
+## Regards
+## Solomon Foskaay
+
