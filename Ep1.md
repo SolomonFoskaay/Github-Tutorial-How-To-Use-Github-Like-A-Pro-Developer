@@ -170,36 +170,83 @@ NOTE: When using relative path, be aware that the url is case sensitive. If the 
 
 ### QUESTION 7: How To Add Ordered List To Github?
 ### ANSWER:
-Markdown: 1. and so on
+Markdown:
+```
+1. item 1
+2. item 2
+3. item 3 and so on
+```
+
+Example:
+1. item 1
+2. item 2
+3. item 3 and so on
+
 
 <hr>
 
 ### QUESTION 8: How To Add Unordered List To Github?
 ### ANSWER:
-Markdown: - item a
-- item b
+Markdown:
+```
+- item 
+- item 
+- item and so on
+```
+
+Example:
+- item 
+- item 
+- item and so on
 
 
 <hr>
 
 ### QUESTION 9: How To Add Images To Github?
-
 ### ANSWER:
-Markdown: ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+Markdown:
+
+Absolute image path:
+```
+![This is an image](https://github.com/SolomonFoskaay/Github-Tutorial-How-To-Use-Github-Like-A-Pro-Developer/blob/main/Media/Screenshots/Github-001a-screenshot.png)
+```
+
+Relative Image path:
+```
+![This is an image](/Media/Screenshots/Github-001a-screenshot.png)
+```
+
+Example: Any of the above image paths will be rendered as below:
+
+![This is an image](/Media/Screenshots/Github-001a-screenshot.png)
+
 
 <hr>
 
 ### QUESTION 10: How To Add Videos To Github?
 ### ANSWER:
-Simply drag and drop where its needed to upload video directly to github
+Simply drag and drop where its needed to upload video directly to github (watch how I uploaded the video below in the full guide video above)
+
+Example:
+
+
 
 <hr>
 
 ### QUESTION 11: How To Add Code Blocks/Boxes To Github?
 ### ANSWER:
 Markdown: 
+
+![This is an image](/Media/Screenshots/Github-001a-screenshot.png)
+
+
+Example:
 ```Javascript
 YOUR JAVASCRIPT OR RELATED CODES (LIKE CADENCE, SOLIDITY) HERE
+```
+Note: The above code is in Blue because we specify it as `Javascript` code. Try changing it to `CSS` and it will turn `Green` and so on. Changes colour from one programming language to the other - interesting!
+```CSS
+YOUR CSS OR RELATED CODES HERE
 ```
 
 <hr>
@@ -212,10 +259,4 @@ YOUR JAVASCRIPT OR RELATED CODES (LIKE CADENCE, SOLIDITY) HERE
 <br/>
 <hr>
 <br/>
-
-## SECTION D: CREDIT SECTION:
-Presearch - Decentralize search + earn while searching (affiliate link)
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
-https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings
 
