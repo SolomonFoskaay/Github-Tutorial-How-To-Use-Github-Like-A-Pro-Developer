@@ -204,21 +204,35 @@ Example:
 
 ### QUESTION 9: How To Add Images To Github?
 ### ANSWER:
-Markdown:
+A) HTML:
 
 Absolute image path:
 ```
-![This is an image](https://github.com/SolomonFoskaay/Github-Tutorial-How-To-Use-Github-Like-A-Pro-Developer/blob/main/Media/Screenshots/Github-001a-screenshot.png)
+<img src="https://github.com/SolomonFoskaay/Github-Tutorial-How-To-Use-Github-Like-A-Pro-Developer/blob/main/Media/Screenshots/Web3-GameFi-Images-001a-Platformer.jpg" width="100%" height="100%">
 ```
 
 Relative Image path:
 ```
-![This is an image](/Media/Screenshots/Github-001a-screenshot.png)
+<img src="/Media/Screenshots/Web3-GameFi-Images-001a-Platformer.jpg" width="100%" height="100%">
+```
+
+B) Markdown:
+
+Absolute image path:
+```
+![This is an image](https://github.com/SolomonFoskaay/Github-Tutorial-How-To-Use-Github-Like-A-Pro-Developer/blob/main/Media/Screenshots/Web3-GameFi-Images-001a-Platformer.jpg)
+```
+
+Relative Image path:
+```
+![This is an image](/Media/Screenshots/Web3-GameFi-Images-001a-Platformer.jpg)
 ```
 
 Example: Any of the above image paths will be rendered as below:
 
-![This is an image](/Media/Screenshots/Github-001a-screenshot.png)
+![This is an image](/Media/Screenshots/Web3-GameFi-Images-001a-Platformer.jpg)
+
+Image of DancingDino  - extracted fom my [Free NoCode Web3 GameFi Development Course](https://dprogramminguniversity.com/courses/web3-gamefi-development-101/)
 
 
 <hr>
@@ -251,16 +265,37 @@ YOUR CSS OR RELATED CODES HERE
 
 <hr>
 
-### QUESTION 12:
+### QUESTION 12: For Other Intermediate User Questions like 
+how to git clone from github (clone repository github)
 
-### ANSWER:
+how to download code from github (same as clone repository github)
 
+how to push to github
+
+how to push code to github from visual studio
+
+how to delete repository github
+
+how to download github
+
+how to upload project on github desktop
+
+how to create pull request in github (create github pull request)
+
+github pages
+
+github profile link
+
+And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
+
+### Want Your questions to be added or need support?
+#### Kindly reach me on [Discord Here](https://dprogramminguniversity.com/discord) & Follow me on [Twitter Here](https://dprogramminguniversity.com/twitter)
 
 <br/>
 <hr>
 <br/>
 
-## SECTION D: CREDIT SECTION:
+## SECTION D: CREDIT:
 [Presearch](https://dprogramminguniversity.com/community/general/how-to-earn-presearch-pre-token/) - Decentralize search + earn while searching
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
@@ -270,3 +305,5 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-personal-account-settings/managing-your-theme-settings
 
 
+## Regards
+## Solomon Foskaay
