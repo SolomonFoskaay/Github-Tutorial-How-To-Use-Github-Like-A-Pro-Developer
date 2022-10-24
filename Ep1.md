@@ -1,6 +1,6 @@
 # Github Tutorial Episode 1: How To Use Github Like Pro Developers
 
-This was inspired by my friends at Emerald DAo to help beginners submit their Bootcamp quests easily using Github. yet it packed with Github
+This was inspired by my friends at Emerald DAO to help beginners submit their Bootcamp quests easily using Github. yet it packed with Github and Markdown Cheat Sheet for any beginner developer to Github. Meanwhile you can checkout Free dApp development/coding Bootcamp from EmeraldDAO under the Credit Section below.
 
 
 ## SECTION A: Intro To Github For Beginners
