@@ -32,7 +32,7 @@ You can switch to dark theme easily in Github just by checking out `Settings`, t
 
 ## SECTION B: Setting Up Github Repo For Quests Submission
 
-### QUESTION 1: How To Create Hithub Repository (Creat  Github Repo)?
+### QUESTION 1: How To Create Github Repository (Creat  Github Repo)?
 
 ### QUESTION 2: How To Create ReadMe File In Github (Create Github ReadMe File)
 
@@ -40,7 +40,7 @@ You can switch to dark theme easily in Github just by checking out `Settings`, t
 
 ### QUESTION 4: How To Create A Folder In Github?
 
-### QUESTION 5: How To Add File In Github Repository?
+### QUESTION 5: How To Add File To Folder In Github Repository?
 
 ### QUESTION 6: How To Upload Images In Github?
 
