@@ -34,17 +34,20 @@ You can switch to dark theme easily in Github just by checking out `Settings`, t
 
 
 ### QUESTION 1-6:
-### QUESTION 1: How To Create ReadMe File In Github (Create Github ReadMe File)
 
-### QUESTION 2: How To Commit Changes In Github (Add Description To Repo File Changes)
+### QUESTION 1: How To Create Hithub Repository (Creat  Github Repo)?
 
-### QUESTION 3: How To Create A Folder In Github
+### QUESTION 2: How To Create ReadMe File In Github (Create Github ReadMe File)
 
-### QUESTION 4: How To Add File In Github Repository
+### QUESTION 3: How To Commit Changes In Github (Add Description To Repo File Changes)
 
-### QUESTION 5: How To Upload Images In Github
+### QUESTION 4: How To Create A Folder In Github?
 
-### QUESTION 6: How To Upload Video In Github ReadMe File
+### QUESTION 5: How To Add File In Github Repository?
+
+### QUESTION 6: How To Upload Images In Github?
+
+### QUESTION 7: How To Upload Video In Github ReadMe File?
 
 ### ANSWER:
 All above questions answered in the video above.
