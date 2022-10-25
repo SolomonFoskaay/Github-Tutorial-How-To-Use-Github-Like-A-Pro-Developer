@@ -32,9 +32,6 @@ You can switch to dark theme easily in Github just by checking out `Settings`, t
 
 ## SECTION B: Setting Up Github Repo For Quests Submission
 
-
-### QUESTION 1-6:
-
 ### QUESTION 1: How To Create Hithub Repository (Creat  Github Repo)?
 
 ### QUESTION 2: How To Create ReadMe File In Github (Create Github ReadMe File)
