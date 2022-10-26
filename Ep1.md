@@ -2,6 +2,10 @@
 
 This was inspired by my friends at Emerald DAO to help beginners submit their Bootcamp quests easily using Github. Yet it packed with Github and Markdown Cheat Sheet for any beginner developer to Github. Meanwhile you can checkout Free dApp development/coding Bootcamp from EmeraldDAO under the Credit Section at the end of this guide.
 
+## Video:
+Click to watch the step by step video guide:
+
+[![This is an image](/Media/Screenshots/bMetaverseD-00051a-Github-Tutorial-Ep1.png)](https://www.youtube.com/watch?v=2PgMJa3cd10)
 
 ## SECTION A: Intro To Github For Beginners
 
