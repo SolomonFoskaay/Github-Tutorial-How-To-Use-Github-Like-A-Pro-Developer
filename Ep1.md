@@ -340,13 +340,16 @@ And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
 <br/>
 
 ## SECTION D: CREDIT:
+## Checkout These Web3 Tools, Protocols & Platforms:
 [Presearch](https://dprogramminguniversity.com/community/general/how-to-earn-presearch-pre-token/) - Decentralize search + earn while searching as devs
 
 [Emerald DAO](https://www.ecdao.org/) - Join Free Cadence Bootcamp & Learn To Build dApps on Flow Blockchain
 
 [Unlock Protocol](https://dprogramminguniversity.com/course-category/unlock-protocol-programming/) - Decentralized Membership as NFT Protocol 
 
+[dProgrammingUniversity](https://dProgrammingUniversity.com) - Free Web3 Programming Courses Platform
 
+##Others:
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github
