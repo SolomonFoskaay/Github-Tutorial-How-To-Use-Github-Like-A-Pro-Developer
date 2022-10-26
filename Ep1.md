@@ -344,6 +344,8 @@ And a lot more - KINDLY GO TO  [Episode 2 of this tutorial here](/Ep2.md)
 
 [Emerald DAO](https://www.ecdao.org/) - Join Free Cadence Bootcamp & Learn To Build dApps on Flow Blockchain
 
+[Unlock Protocol](https://dprogramminguniversity.com/course-category/unlock-protocol-programming/) - Decentralized Membership as NFT Protocol 
+
 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
 
